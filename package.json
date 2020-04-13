@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "bootstrap": "npx lerna bootstrap",
+    "bootstrap": "npx lerna bootstrap --hoist",
     "test": "jest",
     "publish": "npx lerna publish --skip-git --exact",
     "commit": "npx git-cz"

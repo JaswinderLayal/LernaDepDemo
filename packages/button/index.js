@@ -1,2 +1,2 @@
 const text = require("text");
-console.log(`Button with text ${text()}`);
+console.log(`Button component with text ${text()}`);
