@@ -6,7 +6,7 @@ To test locally, use [Verdaccio](https://github.com/verdaccio/verdaccio) for loc
 
 Install Verdaccio globally
 ```bash
-$ yarn global add verdaccio
+$ npm i -g verdaccio
 ```
 
 Run the registry
